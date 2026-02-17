@@ -1,0 +1,9 @@
+{
+	"name": "df-rg-de-projectFour",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "296f7894-c94f-4b68-9747-c79cdc1576cb",
+		"tenantId": "333021bf-91a1-4a1d-bd75-f03e5ddd21d5"
+	}
+}
